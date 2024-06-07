@@ -1,0 +1,18 @@
+.uneven {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+.big {
+    font-size: 24px;
+}
+
+#small {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#tall {
+    font-weight: 900;
+    background-color: rgb(68, 245, 121);
+}
